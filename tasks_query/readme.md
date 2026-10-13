@@ -5,4 +5,9 @@
 [Описание задач](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/junior)
 
 <p><li>MIDDLE</li></p>
+
+[Описание задач](https://github.com/OlgaSelivanova1/project-sales-department/blob/main/tasks_query/middle/readme.md)
+
 <p><li>SENIOR</li></p>
+
+[Описание задач](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/senior)
