@@ -5,5 +5,12 @@
  <p>Схема БД:</p>
  
  ![Модель БД](https://github.com/OlgaSelivanova1/project-sales-department/blob/main/diagram_project.png )
+ <p><strong>Список задач</strong></p>
+ 
+ [Задачи по уровню сложности](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query)
+
+ <p><strong>Решения</strong></p>
+
+ [Папки по номерам вопросов](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/junior)
  
  
