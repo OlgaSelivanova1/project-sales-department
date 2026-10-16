@@ -11,5 +11,6 @@
 5. Посчитать средний чек по месяцам.
    [Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/junior/my_query/task_5)
 7. Найти клиентов, которые не совершали покупок последние N дней.
-8. Посчитать долю каждой категории в общей выручке.
-9. Вывести топ-10 клиентов по сумме покупок.
+   [Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/junior/my_query/task_6)
+9. Посчитать долю каждой категории в общей выручке.
+10. Вывести топ-10 клиентов по сумме покупок.
