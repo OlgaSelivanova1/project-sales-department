@@ -13,6 +13,6 @@
 6. Найти клиентов, которые не совершали покупок последние N дней.
    [Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/junior/my_query/task_6)
 7. Посчитать долю каждой категории в общей выручке.
-   [Решение](https://github.com/OlgaSelivanova1/project-sales-department/blob/main/tasks_query/junior/my_query/task_7/scripts/task_7.sql)
+   [Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/junior/my_query/task_7)
 9. Вывести топ-10 клиентов по сумме покупок.
    [Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/junior/my_query/task_8/scripts)
