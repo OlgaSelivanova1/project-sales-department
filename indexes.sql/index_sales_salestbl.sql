@@ -1,0 +1,1 @@
+CREATE INDEX index_sales ON sales (sale_date,customer_id,category_id, product_id,quantity,amount);
