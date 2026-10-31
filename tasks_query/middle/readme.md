@@ -5,6 +5,8 @@
   
 [Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/middle/task_9)
 <li> Посчитать накопительную выручку по дням.</li>
+
+[Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/middle/task_2)
 <li> Посчитать динамику MoM: изменение выручки к предыдущему месяцу в процентах.</li>
 <li> Разделить клиентов на новых и возвращающихся по месяцам.</li>
 <li> Найти непрерывные периоды продаж без пропусков дат.</li>
