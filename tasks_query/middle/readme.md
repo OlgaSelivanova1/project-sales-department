@@ -8,7 +8,11 @@
 
 [Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/middle/task_2)
 <li> Посчитать динамику MoM: изменение выручки к предыдущему месяцу в процентах.</li>
+
+[Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/middle/task_3)
 <li> Разделить клиентов на новых и возвращающихся по месяцам.</li>
+
+[Решение](https://github.com/OlgaSelivanova1/project-sales-department/blob/main/tasks_query/middle/task_4/readme.md)
 <li> Найти непрерывные периоды продаж без пропусков дат.</li>
 <li> Построить иерархию сотрудников: уровень, путь от руководителя.</li>
 <li> Сделать PIVOT: выручка по кварталам в разрезе товаров.</li>
