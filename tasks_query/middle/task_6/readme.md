@@ -4,8 +4,10 @@
 
 ![](https://github.com/OlgaSelivanova1/project-sales-department/blob/main/tasks_query/middle/task_6/images/tree_emp_injob.png)
 <p>Я дополнила вывод с иерархией по отделам в соотвествии иерархии подчинения (ФИ) сотрудников</p>
-
-Полный вывод в ![файле](https://github.com/OlgaSelivanova1/project-sales-department/blob/main/tasks_query/middle/task_6/records/all_rows_result.xlsx)
+<p>Полный вывод в в файле:
+  
+  [View raw](https://github.com/OlgaSelivanova1/project-sales-department/blob/main/tasks_query/middle/task_6/records/all_rows_result.xlsx)
+</p>
 ![](https://github.com/OlgaSelivanova1/project-sales-department/blob/main/tasks_query/middle/task_6/images/result.png)
 
 ![](https://github.com/OlgaSelivanova1/project-sales-department/blob/main/tasks_query/middle/task_6/images/expl_plan.png)
