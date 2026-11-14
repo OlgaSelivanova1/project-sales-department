@@ -17,8 +17,13 @@
 
 [Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/middle/task_5)
 <li> Построить иерархию сотрудников: уровень, путь от руководителя.</li>
+
+[Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/middle/task_6)
 <li> Сделать PIVOT: выручка по кварталам в разрезе товаров.</li>
+
+[Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/middle/task_7/scripts)
 <li> Посчитать YTD-выручку.</li>
+
 <li> Посчитать скользящее среднее выручки за 7 дней.</li>
 <li> Сравнить выручку год к году (YoY).</li>
 <li> Найти менеджеров, чья зарплата выше средней по отделу.</li>
