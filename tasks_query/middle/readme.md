@@ -24,6 +24,7 @@
 [Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/middle/task_7/scripts)
 <li> Посчитать YTD-выручку.</li>
 
+[Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/middle/task_8)
 <li> Посчитать скользящее среднее выручки за 7 дней.</li>
 <li> Сравнить выручку год к году (YoY).</li>
 <li> Найти менеджеров, чья зарплата выше средней по отделу.</li>
