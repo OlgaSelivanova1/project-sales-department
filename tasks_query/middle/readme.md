@@ -27,6 +27,8 @@
 [Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/middle/task_8)
 <li> Посчитать скользящее среднее выручки за 7 дней.</li>
 <li> Сравнить выручку год к году (YoY).</li>
+
+[Решение](https://github.com/OlgaSelivanova1/project-sales-department/tree/main/tasks_query/middle/task_10)
 <li> Найти менеджеров, чья зарплата выше средней по отделу.</li>
 <li> Ранжировать клиентов по сумме покупок внутри каждого месяца.</li>.
 </ol>
